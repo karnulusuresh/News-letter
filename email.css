@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding-left:30%;
+    padding-right:30%;
+    width:50%;
+    height:100%;
+    justify-content: center;
+}
+.main-body{
+    padding:1rem 1rem 1rem 1rem;
+    background:rgb(230, 228, 228);
+}
+.header{
+    margin:0;
+    width:100%;
+    padding-top:0.5rem;
+    padding-bottom:1rem;
+    justify-content: center;
+}
+.header img {
+   width:100%; 
+   height:80px;
+}
+h1{
+    text-align: center;
+}
+.news-letter{
+    margin:0;
+    width:720px auto;
+    height:auto;
+}
+.news-letter img{
+    width:100% ;
+}
+/* footer  */
+.footer{
+    margin-bottom:25px;
+}
+.footer p{
+    text-align: center;
+}
